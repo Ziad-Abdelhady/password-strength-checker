@@ -12,14 +12,10 @@ This is a simple and responsive **Password Strength Checker** built using **HTML
 - 📱 Responsive design
 - 🧩 Easy to integrate into any web project
 
-## 📸 Screenshot
-
-![Password Strength Checker Screenshot](screenshot.png)  
-*(Replace this with an actual screenshot if available)*
 
 ## 🚀 Live Demo
 
-[Click here to try it out](https://your-username.github.io/password-strength-checker/)  
+[Click here to try it out](file:///C:/Users/Dell%205560/Downloads/password%20strength%20checker/index.html/)  
 *(Replace with your actual GitHub Pages link once published)*
 
 ## 🛠️ Technologies Used
