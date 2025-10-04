@@ -13,19 +13,4 @@ This is a simple and responsive **Password Strength Checker** built using **HTML
 - 🧩 Easy to integrate into any web project
 
 
-## 🚀 Live Demo
 
-[Click here to try it out](file:///C:/Users/Dell%205560/Downloads/password%20strength%20checker/index.html/)  
-*(Replace with your actual GitHub Pages link once published)*
-
-## 🛠️ Technologies Used
-
-- **HTML**
-- **CSS**
-- **JavaScript**
-
-## 🧑‍💻 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/password-strength-checker.git
